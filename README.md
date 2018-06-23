@@ -5,4 +5,4 @@ This released code is the SMEM FPGA kernel code, the details of which is describ
 You can find our paper within this same repository. 
 
 Please cite our paper if you are inspired by our design.
-"SMEM++: A Pipelined and Time-Multiplexed SMEM Seeding Accelerator for Genome Sequencing, Jason Cong, Licheng Guo, Po-Tsang Huang, Peng Wei and Tianhe Yu"
+"SMEM++: A Pipelined and Time-Multiplexed SMEM Seeding Accelerator for Genome Sequencing" 2018 28th International Conference on Field Programmable Logic and Applications (FPL), Jason Cong, Licheng Guo, Po-Tsang Huang, Peng Wei and Tianhe Yu
